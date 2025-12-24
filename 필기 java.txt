@@ -1,4 +1,5 @@
-github.com/simpleego/javastudy
+https://github.com/HwangSungHyeon/Javastudy (내 github)
+github.com/simpleego/javastudy (강사님 github)
 https://github.com/simpleego/JavaStudy/blob/main/website.md
 https://www.online-java.com/ 온라인 자바 설치없이 자바가능
 
