@@ -24,6 +24,7 @@ public class VM {
         do {
             // 메뉴 출력
             // System.out.println(milkCoffee +("milkPrice+300원"));
+            // 커피 메뉴 표시
             for (int i = 0; i < coffeeNames.length; i++) {
                 System.out.printf("%s (%d원) %s\n", coffeeNames[i], coffeePrice[i], isSale[i] ? "○" : "X");
             }
